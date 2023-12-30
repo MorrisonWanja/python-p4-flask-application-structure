@@ -3,8 +3,7 @@
 #!/usr/bin/env python3
 
 from flask import Flask
-from werkzeug.urls import quote
-from app import Flask
+
 
 app = Flask(__name__)
 
